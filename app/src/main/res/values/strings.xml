@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="icon_desc">Ad icon</string>
+    <string name="image_desc">Ad image</string>
+</resources>
